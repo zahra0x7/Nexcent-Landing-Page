@@ -34,6 +34,12 @@ Using Git and GitHub for version control
 
 
 📸 Preview
-<img width="1898" height="1080" alt="image" src="https://github.com/user-attachments/assets/0756c2f3-fe92-4909-a437-3651d8369e47" />
-<img width="267" height="568" alt="image" src="https://github.com/user-attachments/assets/bd706bda-d6ef-41dc-9da8-8b548f587d5b" />
+<img width="267" height="568" alt="image" src="https://github.com/user-attachments/assets/f8a11113-c80d-4468-97d3-e998c05baf7f" />
+<img width="1898" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba41e426-8357-4644-8c7c-a80c337c894e" />
+
+🚀 Live Demo
+
+https://nexcent-landing-page-p.netlify.app/
+
+
 
